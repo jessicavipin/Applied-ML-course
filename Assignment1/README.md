@@ -6,10 +6,12 @@ Build a prototype for email spam classification.
           +preprocess the data (if needed).  
           +split the data into train/validation/test.   
           +store the splits at train.csv/validation.csv/test.csv.  
+
      -In train.ipynb write the functions to.  
           +fit a model on train data.  
           +score a model on given data.  
-          +evaluate the model predictions.  
+          +evaluate the model predictions.
+          
           +validate the model.  
                 *fit on train.  
                 *score on train and validation.  
