@@ -1,2 +1,2 @@
 # Applied-ML-course
-Assignment for the Applied ML course in CMI 
+Assignments for the Applied ML course in CMI 
