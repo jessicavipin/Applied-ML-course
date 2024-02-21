@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15859524389b4d5d956bc57bd601b52a/artifacts
+end_time: 1708473468636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15859524389b4d5d956bc57bd601b52a
+run_name: enthused-gnu-117
+run_uuid: 15859524389b4d5d956bc57bd601b52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708473464075
+status: 3
+tags: []
+user_id: jexica

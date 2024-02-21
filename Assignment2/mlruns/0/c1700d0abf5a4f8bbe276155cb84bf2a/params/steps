@@ -1,0 +1,1 @@
+[('bow', CountVectorizer()), ('tfidf', TfidfTransformer()), ('classifier', SVC())]

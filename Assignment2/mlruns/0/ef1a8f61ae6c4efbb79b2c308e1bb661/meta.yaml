@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef1a8f61ae6c4efbb79b2c308e1bb661/artifacts
+end_time: 1708473481045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef1a8f61ae6c4efbb79b2c308e1bb661
+run_name: skittish-yak-209
+run_uuid: ef1a8f61ae6c4efbb79b2c308e1bb661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708473468644
+status: 3
+tags: []
+user_id: jexica

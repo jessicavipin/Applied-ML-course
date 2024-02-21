@@ -1,0 +1,1 @@
+AdaBoostClassifier(algorithm='SAMME', random_state=42)
