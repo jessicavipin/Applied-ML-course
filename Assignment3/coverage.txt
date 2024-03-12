@@ -1,0 +1,11 @@
+Name       Stmts   Miss  Cover   Missing
+----------------------------------------
+score.py       4      0   100%
+test.py       64      2    97%   19, 90
+----------------------------------------
+TOTAL         68      2    97%
+
+
+# 19 = exception code
+# 90 = unittest.main()
+So technically test.py has the best coverage
